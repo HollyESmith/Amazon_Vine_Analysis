@@ -40,6 +40,6 @@ The total number of reviews was determined by first eliminating records with < 2
 
 ## Summary
 
-No bias was detected between Vine (paid) and unpaid reviewers in this dataset. In fact, paid reviewers awarded fewer 5-star evaluations (approximately 42%) compared to unpaid reviewers (approximately 47%).
+No bias was detected between Vine (paid) and unpaid reviewers in this dataset. In fact, paid reviewers awarded fewer 5-star ratings (approximately 42%) compared to unpaid reviewers (approximately 47%).
 
-Additional statistical analyses such as mean, median, and standard distribution may provide further insight.
+Additional statistical analyses such as mean, median, mode and standard distribution may provide further insight. In addition, the "Kitchen" category encompasses *all* kitchen products - from cleansers to small appliances and beyond. It may be useful to filter by product or price category to determine whether there is more bias with, for example, a Kitchenaid Mixer than Clorox bleach products.
